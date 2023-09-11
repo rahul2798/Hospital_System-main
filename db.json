@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "firstName": "Rahul",
+      "lastName": "Kumar",
+      "phone": "9810806364",
+      "email": "rahul007mec@gmail.com",
+      "address1": "flat No.438,Durga Colony",
+      "address2": "flat No.438,Durga Colony",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zipCode": 400072,
+      "id": 10
+    },
+    {
+      "firstName": "NARENDERA",
+      "lastName": "VERMA",
+      "phone": "9810806364",
+      "email": "rahul007mec@gmail.com",
+      "address1": "flat No.438,Durga Colony",
+      "address2": "flat No.438,Durga Colony",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zipCode": 400072,
+      "id": 11
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

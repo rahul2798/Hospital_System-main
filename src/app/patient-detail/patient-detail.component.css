@@ -1,0 +1,31 @@
+
+
+.sidemenuButton{
+  background-image: linear-gradient(to right,blue, rgb(141, 73, 141));
+}
+.menu{
+  margin-left: 20px;
+}
+
+.labelColor{
+  color: rgb(47, 47, 156);
+}
+
+::placeholder {
+  font-size: small;
+  font-weight: bold;
+  color: rgb(151, 148, 148);
+}
+
+.btn {
+  background-color: light-green;
+  padding: 12px 16px;
+  font-size: 16px;
+}
+.btn:hover {
+  background-color: green;
+}
+.contain{
+  display: flex;
+  flex-wrap: wrap;
+}
